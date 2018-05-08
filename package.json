@@ -1,0 +1,19 @@
+{
+  "name": "eastwood-config-example",
+  "version": "1.0.0",
+  "description": "Example external configuration for Eastwood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oculus42/eastwood-config-example.git"
+  },
+  "author": "Samuel Rouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oculus42/eastwood-config-example/issues"
+  },
+  "homepage": "https://github.com/oculus42/eastwood-config-example#readme"
+}
